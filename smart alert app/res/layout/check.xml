@@ -1,0 +1,147 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:background="#ddd"
+    tools:context="com.life.smartalert.SmartAlertActivities.MainActivity"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:fillViewport="true"
+        android:fadeScrollbars="false"
+        android:paddingBottom="60dp"
+        android:scrollbars="vertical" >
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="30dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/swift"
+                android:layout_width="214dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:background="#fff"
+                android:fontFamily="serif"
+                android:text="Send a Swift Alert"
+                android:textColor="#dc143c"
+
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:text="Or"
+                android:textAlignment="center"
+                android:textSize="30dp"
+                android:layout_below="@+id/swift"
+                android:fontFamily="serif"
+                android:id="@+id/or"
+                android:layout_marginBottom="30dp"
+                android:layout_height="wrap_content"
+                android:textColor="#dc143c" />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:text="ALERT NAME:"
+                android:textSize="20dp"
+                android:layout_below="@+id/or"
+                android:fontFamily="serif"
+                android:id="@+id/name"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimary" />
+
+            <EditText
+                android:id="@+id/alert_name"
+                android:textSize="20dp"
+                android:fontFamily="serif"
+                android:hint="Name"
+                android:layout_below="@+id/name"
+                android:textCursorDrawable="@null"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="LOCATION"
+                android:fontFamily="serif"
+                android:textSize="20dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/alert_name"
+                android:id="@+id/loc"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginTop="15dp"
+                />
+
+
+            <EditText
+                android:id="@+id/location"
+                android:textSize="20dp"
+                android:fontFamily="serif"
+                android:hint="Street,City"
+                android:layout_width="400dp"
+                android:layout_below="@+id/loc"
+                android:layout_height="wrap_content"
+                android:inputType="text"
+                android:maxLength="10"
+                android:textCursorDrawable="@null"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="DESCRIPTION"
+                android:textSize="20dp"
+                android:fontFamily="serif"
+                android:id="@+id/desc"
+                android:layout_below="@+id/location"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginTop="5dp"/>
+
+            <EditText
+                android:id="@+id/description"
+                android:textSize="20dp"
+                android:hint="Short Description"
+                android:fontFamily="serif"
+                android:inputType="textMultiLine"
+                android:layout_below="@+id/desc"
+                android:textCursorDrawable="@null"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/button3"
+                style="@style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Large"
+                android:layout_width="157dp"
+                android:layout_height="50dp"
+                android:layout_below="@+id/description"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:background="#fff"
+                android:text="Send Alert"
+                android:textColor="#dc143c"
+                android:textStyle="bold" />
+
+
+
+
+        </RelativeLayout>
+
+
+
+
+    </ScrollView>
+
+
+</LinearLayout>
