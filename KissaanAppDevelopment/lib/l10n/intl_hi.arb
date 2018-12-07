@@ -1,0 +1,807 @@
+{
+  "@@last_modified": "2018-10-28T18:53:47.057617",
+  "title": "किसान",
+  "@title": {
+    "description": "The title of the applications",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newsfeedPageTitle": "समाचार दर्ज करना",
+  "@newsfeedPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cattlePageTitle": "पशु",
+  "@cattlePageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yieldPageTitle": "प्राप्ति",
+  "@yieldPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskPageTitle": "कार्य",
+  "@taskPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userProfileTitle": "उपयोगकर्ता प्रोफ़ाइल",
+  "@userProfileTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeNumberText": "फोन नंबर बदलें",
+  "@changeNumberText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addCattlePrompt": "मवेशी जोड़ें",
+  "@addCattlePrompt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allCattle": "सभी मवेशी",
+  "@allCattle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDate": "तारीख़ चुनें",
+  "@selectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "am": "पूर्वाह्न",
+  "@am": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pm": "दोपहर",
+  "@pm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "जमा करें",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "रद्द करना",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newAnimal": "रद्द करना",
+  "@newAnimal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "सहेजने",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "लिंग",
+  "@gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "नर",
+  "@male": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "मादा",
+  "@female": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "milking": "दूध दुहना",
+  "@milking": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "हाँ",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "नहीं",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateOfBirth": "जन्म",
+  "@dateOfBirth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateOfPurchase": "खरीदने की तारीख",
+  "@dateOfPurchase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceNumber": "बीमा संख्या",
+  "@insuranceNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cow": "गाय",
+  "@cow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buffalo": "भेंस",
+  "@buffalo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ongole": "ओंगोल",
+  "@ongole": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "punganoor": "पुंगनूर",
+  "@punganoor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holstein": "होल्स्टीन",
+  "@holstein": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "jersey": "जर्सी",
+  "@jersey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gir": "गीर",
+  "@gir": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shahiwal": "शाहीवाल",
+  "@shahiwal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deoni": "डीओनी",
+  "@deoni": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ratti": "रत्ती",
+  "@ratti": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mixedBreed": "अन्य",
+  "@mixedBreed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other": "अन्य",
+  "@other": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "murrah": "मुर्राह",
+  "@murrah": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mehsana": "मेहसाणा",
+  "@mehsana": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "jaffarbadi": "जफ्फारबाड़ी",
+  "@jaffarbadi": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addEvent": "कार्यक्रम जोड़ें",
+  "@addEvent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "breeding": "प्रजनन",
+  "@breeding": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pregnancy": "गर्भावस्था",
+  "@pregnancy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insemination": "बोवाई",
+  "@insemination": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medicalAndHealth": "चिकित्सा और स्वास्थ्य",
+  "@medicalAndHealth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dryCowTherapy": "सूखी गाय थेरेपी",
+  "@dryCowTherapy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "generalCheckUp": "सामान्य जांच करें",
+  "@generalCheckUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intramammaryAntibiotics": "एंटीबायोटिक दवाओं",
+  "@intramammaryAntibiotics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delivery": "वितरण",
+  "@delviery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maleCalf": "नर बछड़ा",
+  "@maleCalf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "femaleCalf": "मादा बछड़ा",
+  "@femaleCalf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deadCalf": "मृत बछड़ा",
+  "@deadCalf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status": "स्थिति",
+  "@status": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sold": "बेचा",
+  "@sold": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dead": "मृत",
+  "@dead": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+
+  "checkUpdateToDate": "Check if the application is up to date",
+    "@checkUpdateToDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "reply": "Reply",
+    "@reply": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "inMind": "Whats in your mind?",
+    "@inMind": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "moreComments": "more comments",
+    "@moreComments": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "general": "General",
+    "@general": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "post": "Post",
+    "@post": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "sending": "Sending",
+    "@sending": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterComments": "Please enter comments here",
+    "@enterComments": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "chooseSource": "Please choose the source",
+    "@chooseSource": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "camera": "Camera",
+    "@camera": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "gallery": "Gallery",
+    "@gallery": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "event": "Event",
+    "@event": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "buySell": "Buy/Sell",
+    "@buySell": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "like": "Like",
+    "@like": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "dislike": "Dislike",
+    "@dislike": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "showAll": "Show All",
+    "@showAll": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "collapse": "Collapse",
+    "@collapse": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterSMS": "Enter sms Code",
+    "@enterSMS": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "done": "Done",
+    "@done": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "numTransferFail": "Number Transfer Failed",
+    "@numTransferFail": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "numAlreadyUsed": "The number has already been used",
+    "@numAlreadyUsed": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "confirm": "Confirm",
+    "@confirm": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "oldPhoneNum": "Old Phone Number",
+    "@oldPhoneNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "newPhoneNum": "New Phone Number",
+    "@newPhoneNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "invalidPhoneNum": "Invalid Phone Number",
+    "@invalidPhoneNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "phoneNumNoMatch": "phone number doesn't match",
+    "@phoneNumNoMatch": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "phone": "Phone",
+    "@phone": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "yourPhoneNum": "Your Phone Number",
+    "@yourPhoneNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "changeNum": "Change Number",
+    "@changeNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "loading": "Loading...",
+    "@loading": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "thingsToDo": "Things to Do",
+    "@thingsToDo": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "notValidDate": "Not a valid date",
+    "@notValidDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterEventDate": "Enter event date(mm/dd/yyyy)",
+    "@enterEventDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "date": "Date:",
+    "@date": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "positive": "Positive",
+    "@positive": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "negative": "Negative",
+    "@negative": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterEventDesc": "Enter event description",
+    "@enterEventDesc": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "description": "Description",
+    "@description": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "eventRegister": "Event Register",
+    "@eventRegister": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "registerUsingAddCattle": "Register your cattle using the add cattle button.",
+    "@registerUsingAddCattle": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "registerCattleEvents": "Register your cattle using the add cattle button.",
+    "@registerCattleEvents": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "checkTipOfDay": "Check the tip of the day on the newsfeed.",
+    "@checkTipOfDay": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "updateAnimalYields": "Update your animals yield in the yield page.",
+    "@updateAnimalYields": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "pleaseChooseSource": "Please choose the source",
+    "@pleaseChooseSource": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "cropImage": "Crop Your Image",
+    "@cropImage": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "cattle": "Cattle",
+    "@cattle": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterYield": "Enter Yield",
+    "@enterYield": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "tasks": "Tasks",
+    "@tasks": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "submissionConfirm": "Submission Confirmed",
+    "@submissionConfirm": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "noDataSaved": "No data was saved!",
+    "@noDataSaved": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "dataSavedSuccessfully": "The data has been saved successfully!",
+    "@dataSavedSuccessfully": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "today": "Today,",
+    "@today": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "yields": "Yields",
+    "@yields": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "avgYieldNoRecord": "Avg Yield: NO RECORD",
+    "@avgYieldNoRecord": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "avgYield": "AVG Yield:",
+    "@avgYield": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "perDay": "Per Day",
+    "@perDay": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "pregnanacy": "Pregnancy",
+    "@pregnanacy": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "selectDateTap": "Select date by tapping here",
+    "@selectDateTap": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "editUser": "Edit User",
+    "@editUser": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "name": "Name:",
+    "@name": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "pleaseEnterText": "Please enter some text",
+    "@pleaseEnterText": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterLocation": "Enter location:",
+    "@enterLocation": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "locationOPT": "Location(optional):",
+    "@locationOPT": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterAadhar": "Enter your Aadhaar",
+    "@enterAadhar": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "aadharOPT": "Aadhaar (optional):",
+    "@aadharOPT": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "welcome": "Welcome!",
+    "@welcome": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "location": "Location:",
+    "@location": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "aadhar": "AADHAR:",
+    "@aadhar": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "news": "News",
+    "@news": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "phoneNumCantEmpty": "Your phone number can't be empty!",
+    "@phoneNumCantEmpty": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "phoneNumInvalid": "This phone number is invalid!",
+    "@phoneNumInvalid": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "couldntVerifyCode": "We couldn't verify your code for now, please try again!",
+    "@couldntVerifyCode": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "verificationCodeEmpty": "Your verification code can't be empty!",
+    "@verificationCodeEmpty": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "invalidVerificationCode": "This verification code is invalid!",
+    "@invalidVerificationCode": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "couldntVerifyCodeRetry": "We couldn't verify your code, please try again!",
+    "@couldntVerifyCodeRetry": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "couldntCreatProfile": "We couldn't create your profile for now, please try again later",
+    "@couldntCreatProfile": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "cantRetryYet": "You can't retry yet!",
+    "@cantRetryYet": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "codeNotThereInOneMin": "If your code does not arrive in 1 minute, touch",
+    "@codeNotThereInOneMin": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "verificationCode": "Verification code",
+    "@verificationCode": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "authentication": "Authentication",
+    "@authentication": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterNumberBelow": "Please enter your number below.\n",
+    "@enterNumberBelow": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "willSendSMS": "We'll send an SMS message to verify your identity.",
+    "@willSendSMS": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "search": "Search",
+    "@search": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "dryAnimals": "Dry Animals",
+    "@dryAnimals": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "milkingAnimals": "Milking Animals",
+    "@milkingAnimals": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "pregnantAnimals": "Pregnant Animals",
+    "@pregnantAnimals": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "banni": "Banni",
+    "@banni": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "invalidDate": "Not a valid date.",
+    "@invalidDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "cattleName": "Enter cattle's name",
+    "@cattleName": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterDescription": "Enter the Description",
+    "@enterDescription": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterInsuranceNum": "Enter insurance number",
+    "@enterInsuranceNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "insurance": "Insurance:",
+    "@insurance": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "kankrej": "Kankrej",
+    "@kankrej": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "hallikar": "Hallikar",
+    "@hallikar": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "kangayan": "Kangayan",
+    "@kangayan": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "hariana": "Hariana",
+    "@hariana": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "marnadu": "Marnadu",
+    "@marnadu": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "tharparkar": "Tharparkar",
+    "@tharparkar": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "Vechur": "Vechur",
+    "@Vechur": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "RedSindhi": "Red Sindhi",
+    "@RedSindhi": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "NiliRavi": "Nili Ravi",
+    "@NiliRavi": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "Jaffarabadi": "Jaffarabadi",
+    "@Jaffarabadi": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "Naatu": "Naatu",
+    "@Naatu": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "Surti": "Surti",
+    "@Surti": {
+      "type": "text",
+      "placeholders": {}
+    }
+
+}

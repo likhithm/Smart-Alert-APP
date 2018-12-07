@@ -1,0 +1,810 @@
+{
+  "@@last_modified": "2018-10-28T18:53:47.057617",
+  "title": "కిస్సాన్",
+  "@title": {
+    "description": "The title of the applications",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newsfeedPageTitle": "విషయసేకరణ",
+  "@newsfeedPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cattlePageTitle": "పశువులు ",
+  "@cattlePageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yieldPageTitle": "దిగుబడి",
+  "@yieldPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskPageTitle": "విషయాలు",
+  "@taskPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userProfileTitle": "వ్యక్తిగత వివరణ",
+  "@userProfileTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeNumberText": "ఫోన్ నెంబర్ మార్చుకోనుట",
+  "@changeNumberText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "నిష్క్రమణ",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addCattlePrompt": "పశువుల చేరిక లేదా నూతన పశువుల చేరిక",
+  "@addCattlePrompt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allCattle": "అన్ని పశువులు. లేదా మొత్తము పశువుల సమూహము",
+  "@allCattle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDate": "ఎంచుకోబడు తేదీ",
+  "@selectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "am": "ఉదయం",
+  "@am": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pm": "సాయంత్రం",
+  "@pm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "చేర్చడం",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "తీసివేయి",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newAnimal": "కొత్త పశువులు",
+  "@newAnimal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "ఆదా చేయుట, భద్రపరచుట",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "లింగనిర్ధారణ",
+  "@gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "మగ",
+  "@male": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "ఆడ",
+  "@female": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "milking": "పాలు ఇచ్చు",
+  "@milking": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "అవును",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "కాదు, లేదు",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateOfBirth": "పుట్టినరోజు లేదా పుట్టినతేది, జన్మదినం",
+  "@dateOfBirth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateOfPurchase": "కొనుగోలు చేసిన తేదీ లేదా కొనుగోలు చేసిన తారీఖు",
+  "@dateOfPurchase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceNumber": "జీవిత భీమా నంబరు",
+  "@insuranceNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cow": "ఆవు, గోవు",
+  "@cow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buffalo": "గేదె, బర్రె",
+  "@buffalo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ongole": "ఒంగోలుజాతి",
+  "@ongole": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "punganoor": "పుంగనూరు",
+  "@punganoor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holstein": "హోలిస్టెయిన్ లేదా సంకరజాతి",
+  "@holstein": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "jersey": "జెర్సీ",
+  "@jersey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gir": "గిర్",
+  "@gir": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shahiwal": "షాహివాల్",
+  "@shahiwal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deoni": "దియోని",
+  "@deoni": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ratti": "రాఠి",
+  "@ratti": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mixedBreed": "సంకరజాతి",
+  "@mixedBreed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other": "వేరు వేరు జాతుల సమ్మిళితం",
+  "@other": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "murrah": "ముర్ర",
+  "@murrah": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mehsana": "మెహసన",
+  "@mehsana": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "jaffarbadi": "జాఫ్ఫార్ బాడీ",
+  "@jaffarbadi": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addEvent": "నూతన విషయాలు లేదా కొత్త సమాచారం",
+  "@addEvent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "breeding": "సంక్రమణం",
+  "@breeding": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pregnancy": "గర్భం, గర్భనిర్ధారణ",
+  "@pregnancy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insemination": "వీర్యదానం",
+  "@insemination": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medicalAndHealth": "వైద్యం మరియు ఆరోగ్యం",
+  "@medicalAndHealth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dryCowTherapy": "వట్టిపోయిన పశువుకు వైద్యం",
+  "@dryCowTherapy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "generalCheckUp": "సహజమైన వైద్య పరీక్ష",
+  "@generalCheckUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intramammaryAntibiotics": "అంతర్గత వ్యాధి నిరోధకత మందులు",
+  "@intramammaryAntibiotics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delviery": "ప్రసవం, లేదా ఈనడం",
+  "@delviery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maleCalf": "మగ దూడ",
+  "@maleCalf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "femaleCalf": "ఆడ దూడ",
+  "@femaleCalf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deadCalf": "చనిపోయిన బిడ్డ పుట్టడం",
+  "@deadCalf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status": "ప్రస్తుత పరిస్థితి",
+  "@status": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sold": "అమ్ముట",
+  "@sold": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dead": "మరణించడం",
+  "@dead": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+
+  "checkUpdateToDate": " అప్లికేషన్ నవీకరణ చేయండి ",
+    "@checkUpdateToDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "reply": " ప్రత్యుత్తరం ",
+    "@reply": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "inMind": " మీ మనస్సులో ఏమి ఉంది? ",
+    "@inMind": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "moreComments": " మరిన్ని వ్యాఖ్యలు ",
+    "@moreComments": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "general": " జనరల్ ",
+    "@general": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "post": " పోస్ట్ ",
+    "@post": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "sending": " పంపుతోంది ",
+    "@sending": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterComments": " దయచేసి ఇక్కడ వ్యాఖ్యలను నమోదు చేయండి ",
+    "@enterComments": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "chooseSource": " దయచేసి మూలాన్ని ఎంచుకోండి ",
+    "@chooseSource": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "camera": " కెమెరా ",
+    "@camera": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "gallery": " గ్యాలరీ ",
+    "@gallery": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "event": " ఈవెంట్ ",
+    "@event": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "buySell": " కొను/అమ్ము ",
+    "@buySell": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "like": " లైక్ ",
+    "@like": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "dislike": " అయిష్టం ",
+    "@dislike": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "showAll": " అన్నీ చూపండి ",
+    "@showAll": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "collapse": " కుదించు ",
+    "@collapse": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterSMS": " SMS కోడ్ను నమోదు చేయండి ",
+    "@enterSMS": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "done": " పూర్తి ",
+    "@done": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "numTransferFail": " ఫోన్ నంబర్ బదిలీ విఫలమైంది ",
+    "@numTransferFail": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "numAlreadyUsed": " ఫోనంబర్ ఇప్పటికే ఉపయోగించబడింది ",
+    "@numAlreadyUsed": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "confirm": " నిర్ధారించండి ",
+    "@confirm": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "oldPhoneNum": " పాత ఫోన్ నంబర్ ",
+    "@oldPhoneNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "newPhoneNum": " క్రొత్త ఫోన్ నంబర్ ",
+    "@newPhoneNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "invalidPhoneNum": " చెల్లని ఫోన్ నంబర్ ",
+    "@invalidPhoneNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "phoneNumNoMatch": " ఫోన్ నంబర్ సరిపోలలేదు ",
+    "@phoneNumNoMatch": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "phone": " ఫోన్ ",
+    "@phone": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "yourPhoneNum": " మీ ఫోను నంబరు ",
+    "@yourPhoneNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "changeNum": " ఫోన్ నంబర్ని మార్చండి ",
+    "@changeNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "loading": " లోడ్... ",
+    "@loading": {
+      "type": "text",
+      "placeholders": {}
+    },
+
+
+
+
+    "thingsToDo": "చేయవలసిన పనులు",
+    "@thingsToDo": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "notValidDate": "చెల్లుబాటు అయ్యే తేదీ కాదు",
+    "@notValidDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterEventDate": "ఈవెంట్ తేదీని నమోదు చేయండి (mm / dd / yyyy)",
+    "@enterEventDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "date": "తేదీ:",
+    "@date": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "positive": "పాజిటివ్",
+    "@positive": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "negative": "నెగటివ్",
+    "@negative": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterEventDesc": "ఈవెంట్ వివరణని నమోదు చేయండి",
+    "@enterEventDesc": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "description": "వివరణ",
+    "@description": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "eventRegister": "ఈవెంట్ను నమోదు చేయండి",
+    "@eventRegister": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "registerUsingAddCattle": "యాడ్ పశువుల బటన్ను ఉపయోగించి మీ పశువులను నమోదు చేయండి.",
+    "@registerUsingAddCattle": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "registerCattleEvents": "పశువుల ప్రొఫైల్ వద్ద యాడ్ ఈవెంట్స్ బటన్ను ఉపయోగించి పశువుల సంబంధిత ఈవెంట్లను నమోదు చేయండి.",
+    "@registerCattleEvents": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "checkTipOfDay": "రోజువారీ చిట్కా న్యూస్ ఫీడ్ లో చూడండి",
+    "@checkTipOfDay": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "updateAnimalYields": "దిగుబడి పేజీలో మీ జంతువుల దిగుబడి నమోదు చేసుకోండి.",
+    "@updateAnimalYields": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "pleaseChooseSource": "దయచేసి మూలాన్ని ఎంచుకోండి",
+    "@pleaseChooseSource": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "cropImage": "మీ చిత్రం సర్దుబాటు చేయండి",
+    "@cropImage": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "cattle": "పశువులు",
+    "@cattle": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterYield": "దిగుబడిని నమోదు చేయండి",
+    "@enterYield": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "tasks": "విషయాలు",
+    "@tasks": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "submissionConfirm": "సబ్మిషన్ ధృవీకరించబడింది",
+    "@submissionConfirm": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "noDataSaved": "డేటా సేవ్ చేయబడలేదు!",
+    "@noDataSaved": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "dataSavedSuccessfully": "డేటా విజయవంతంగా సేవ్ చేయబడింది!",
+    "@dataSavedSuccessfully": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "today": "నేడు,",
+    "@today": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "yields": "దిగుబడి",
+    "@yields": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "avgYieldNoRecord": "సగటు దిగుబడి : 0",
+    "@avgYieldNoRecord": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "avgYield": "సగటు దిగుబడి :",
+    "@avgYield": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "perDay": "రోజుకు",
+    "@perDay": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "pregnanacy": "గర్భం",
+    "@pregnanacy": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "selectDateTap": "ఇక్కడ నొక్కడం ద్వారా తేదీని ఎంచుకోండి",
+    "@selectDateTap": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "editUser": "వినియోగదారుని సవరించండి",
+    "@editUser": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "name": "పేరు:",
+    "@name": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "pleaseEnterText": "దయచేసి కొంత వచనాన్ని నమోదు చేయండి",
+    "@pleaseEnterText": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterLocation": "స్థానాన్ని నమోదు చేయండి:",
+    "@enterLocation": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "locationOPT": "స్థానం (ఐచ్ఛిక):",
+    "@locationOPT": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterAadhar": "మీ ఆధార్ నంబర్ నమోదు చేయండి",
+    "@enterAadhar": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "aadharOPT": "ఆధార్ నంబర్(ఐచ్ఛిక):",
+    "@aadharOPT": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "welcome": "స్వాగతం!",
+    "@welcome": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "location": "స్థానం :",
+    "@location": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "aadhar": "ఆధార్ నంబర్:",
+    "@aadhar": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "news": "సమాచారం",
+    "@news": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "phoneNumCantEmpty": "మీ ఫోన్ నంబర్ ఖాళీగా ఉండకూడదు!",
+    "@phoneNumCantEmpty": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "phoneNumInvalid": "ఈ ఫోన్ నంబర్ చెల్లనిది!",
+    "@phoneNumInvalid": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "couldntVerifyCode": "ఇప్పుడే మీ కోడ్ను మేము ధృవీకరించలేకపోయాము, దయచేసి మళ్ళీ ప్రయత్నించండి!",
+    "@couldntVerifyCode": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "verificationCodeEmpty": "మీ ధృవీకరణ కోడ్ ఖాళీగా ఉండకూడదు!",
+    "@verificationCodeEmpty": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "invalidVerificationCode": "ఈ ధృవీకరణ కోడ్ చెల్లదు!",
+    "@invalidVerificationCode": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "couldntVerifyCodeRetry": "మేము మీ కోడ్ను ధృవీకరించలేకపోయాము, దయచేసి మళ్ళీ ప్రయత్నించండి!",
+    "@couldntVerifyCodeRetry": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "couldntCreatProfile": "ఇప్పుడే మీ ప్రొఫైల్ను సృష్టించలేకపోయాము, దయచేసి తరువాత మళ్లీ ప్రయత్నించండి",
+    "@couldntCreatProfile": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "cantRetryYet": "మీరు ఇంకా మళ్ళీ ప్రయత్నించలేరు!",
+    "@cantRetryYet": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "codeNotThereInOneMin": "మీ కోడ్ 1 నిమిషంలో రాకుంటే, తాకండి",
+    "@codeNotThereInOneMin": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "verificationCode": "ధృవీకరణ కోడ్",
+    "@verificationCode": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "authentication": "ప్రామాణీకరణ",
+    "@authentication": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterNumberBelow": "దయచేసి క్రింద మీ నంబర్ను నమోదు చేయండి. \n",
+    "@enterNumberBelow": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "willSendSMS": "మీ గుర్తింపుని ధృవీకరించడానికి మేము SMS సందేశాన్ని పంపుతాము.",
+    "@willSendSMS": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "search": "వెతుకు",
+    "@search": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "dryAnimals": "వట్టి  పశువులు",
+    "@dryAnimals": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "milkingAnimals": "పాడి పశువులు",
+    "@milkingAnimals": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "pregnantAnimals": "చూడి పశువులు",
+    "@pregnantAnimals": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "banni": "బన్ని",
+    "@banni": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "invalidDate": "చెల్లుబాటు అయ్యే తేదీ కాదు.",
+    "@invalidDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "cattleName": "పశువుల పేరును నమోదు చేయండి",
+    "@cattleName": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterDescription": "వివరణ నమోదు చేయండి",
+    "@enterDescription": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterInsuranceNum": "బీమా నెంబర్ నమోదు చేయండి",
+    "@enterInsuranceNum": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "insurance": "భీమా:",
+    "@insurance": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "kankrej": "కాంక్రేజ్",
+    "@kankrej": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "hallikar": "హాలికర్",
+    "@hallikar": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "kangayan": "కంగాయం",
+    "@kangayan": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "hariana": "హరియాణా",
+    "@hariana": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "marnadu": "మర్నాడు",
+    "@marnadu": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "tharparkar": "థర్పర్కర్",
+    "@tharparkar": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "Vechur": "వేచూర్",
+    "@Vechur": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "RedSindhi": "రెడ్ సింధీ",
+    "@RedSindhi": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "NiliRavi": "నిలి రవి",
+    "@NiliRavi": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "Jaffarabadi": "జఫ్ఫారబడి",
+    "@Jaffarabadi": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "Naatu": "నాటు",
+    "@Naatu": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "Surti": "స్ర్తి",
+    "@Surti": {
+      "type": "text",
+      "placeholders": {}
+    }
+}

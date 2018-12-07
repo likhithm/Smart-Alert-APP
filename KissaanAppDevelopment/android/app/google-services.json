@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "76785003412",
+    "firebase_url": "https://gomitratest.firebaseio.com",
+    "project_id": "gomitratest",
+    "storage_bucket": "gomitratest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76785003412:android:0233374b2ec09792",
+        "android_client_info": {
+          "package_name": "com.kissaan.gomitratest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76785003412-h9rjjohi88psck93fnvce8i6h4k8294e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kissaan.gomitratest",
+            "certificate_hash": "0801fc39a55c57743644007cd7feb129437b72fb"
+          }
+        },
+        {
+          "client_id": "76785003412-842rva72mpnsac6gtt8g77jagsm1ab91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEti0iaWsxS06kEVIOkU66u8ntvErnIwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76785003412-842rva72mpnsac6gtt8g77jagsm1ab91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

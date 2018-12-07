@@ -1,0 +1,930 @@
+{
+  "@@last_modified": "2018-11-20T16:05:33.448343",
+  "title": "Kissaan English",
+  "@title": {
+    "description": "The title of the applications",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newsfeedPageTitle": "Newsfeed",
+  "@newsfeedPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cattlePageTitle": "Cattle",
+  "@cattlePageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yieldPageTitle": "Yields",
+  "@yieldPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskPageTitle": "Tasks",
+  "@taskPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userProfileTitle": "User Profile Title",
+  "@userProfileTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeNumberText": "Change Phone Number",
+  "@changeNumberText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addCattlePrompt": "Add Cattle",
+  "@addCattlePrompt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allCattle": "All Cattle",
+  "@allCattle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDate": "Select Date",
+  "@selectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "am": "AM",
+  "@am": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pm": "PM",
+  "@pm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newAnimal": "New Animal",
+  "@newAnimal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "Gender",
+  "@gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "Male",
+  "@male": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "Female",
+  "@female": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "milking": "Milking",
+  "@milking": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateOfBirth": "Date of Birth",
+  "@dateOfBirth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateOfPurchase": "Date of Purchase",
+  "@dateOfPurchase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insuranceNumber": "Insurance Number",
+  "@insuranceNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cow": "Cow",
+  "@cow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buffalo": "Buffalo",
+  "@buffalo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ongole": "Ongole",
+  "@ongole": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "punganoor": "Punganoor",
+  "@punganoor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "holstein": "Holstein",
+  "@holstein": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "jersey": "Jersey",
+  "@jersey": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gir": "Gir",
+  "@gir": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shahiwal": "Shahiwal",
+  "@shahiwal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deoni": "Deoni",
+  "@deoni": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ratti": "Ratti",
+  "@ratti": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mixedBreed": "Mixed Breed",
+  "@mixedBreed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "other": "Other",
+  "@other": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "murrah": "Murrah",
+  "@murrah": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mehsana": "Mehsana",
+  "@mehsana": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "jaffarbadi": "Jaffarbadi",
+  "@jaffarbadi": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addEvent": "Add Event",
+  "@addEvent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "breeding": "Breeding",
+  "@breeding": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pregnancy": "Pregnancy",
+  "@pregnancy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insemination": "Insemination",
+  "@insemination": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medicalAndHealth": "Medical And Health",
+  "@medicalAndHealth": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dryCowTherapy": "Dry Cow Therapy",
+  "@dryCowTherapy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "generalCheckUp": "General Checkup",
+  "@generalCheckUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intramammaryAntibiotics": "Intramammary Antibiotics",
+  "@intramammaryAntibiotics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delivery": "Delivery",
+  "@delviery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "maleCalf": "Male Calf",
+  "@maleCalf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "femaleCalf": "Female Calf",
+  "@femaleCalf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deadCalf": "Dead Calf",
+  "@deadCalf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "status": "Status",
+  "@status": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sold": "Sold",
+  "@sold": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dead": "Dead",
+  "@dead": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkUpdateToDate": "Check if the application is up to date",
+  "@checkUpdateToDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reply": "Reply",
+  "@reply": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inMind": "Whats in your mind?",
+  "@inMind": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "moreComments": "more comments",
+  "@moreComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "general": "General",
+  "@general": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "post": "Post",
+  "@post": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sending": "Sending",
+  "@sending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterComments": "Please enter comments here",
+  "@enterComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseSource": "Please choose the source",
+  "@chooseSource": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "camera": "Camera",
+  "@camera": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gallery": "Gallery",
+  "@gallery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "event": "Event",
+  "@event": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "buySell": "Buy/Sell",
+  "@buySell": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "like": "Like",
+  "@like": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dislike": "Dislike",
+  "@dislike": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAll": "Show All",
+  "@showAll": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "collapse": "Collapse",
+  "@collapse": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterSMS": "Enter sms Code",
+  "@enterSMS": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "Done",
+  "@done": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numTransferFail": "Number Transfer Failed",
+  "@numTransferFail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numAlreadyUsed": "The number has already been used",
+  "@numAlreadyUsed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "oldPhoneNum": "Old Phone Number",
+  "@oldPhoneNum": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPhoneNum": "New Phone Number",
+  "@newPhoneNum": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidPhoneNum": "Invalid Phone Number",
+  "@invalidPhoneNum": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumNoMatch": "phone number doesn't match",
+  "@phoneNumNoMatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "Phone",
+  "@phone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourPhoneNum": "Your Phone Number",
+  "@yourPhoneNum": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeNum": "Change Number",
+  "@changeNum": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thingsToDo": "Things to Do",
+  "@thingsToDo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notValidDate": "Not a valid date",
+  "@notValidDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterEventDate": "Enter event date(mm/dd/yyyy)",
+  "@enterEventDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "Date:",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "positive": "Positive",
+  "@positive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "negative": "Negative",
+  "@negative": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterEventDesc": "Enter event description",
+  "@enterEventDesc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Description",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "eventRegister": "Event Register",
+  "@eventRegister": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerUsingAddCattle": "Register your cattle using the add cattle button.",
+  "@registerUsingAddCattle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerCattleEvents": "Register your cattle using the add cattle button.",
+  "@registerCattleEvents": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkTipOfDay": "Check the tip of the day on the newsfeed.",
+  "@checkTipOfDay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updateAnimalYields": "Update your animals yield in the yield page.",
+  "@updateAnimalYields": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseChooseSource": "Please choose the source",
+  "@pleaseChooseSource": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cropImage": "Crop Your Image",
+  "@cropImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cattle": "Cattle",
+  "@cattle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterYield": "Enter Yield",
+  "@enterYield": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tasks": "Tasks",
+  "@tasks": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submissionConfirm": "Submission Successful",
+  "@submissionConfirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDataSaved": "No data was saved!",
+  "@noDataSaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dataSavedSuccessfully": "The data has been saved successfully!",
+  "@dataSavedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "today": "Today,",
+  "@today": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yields": "Yields",
+  "@yields": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "avgYieldNoRecord": "Avg Yield: NO RECORD",
+  "@avgYieldNoRecord": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "avgYield": "AVG Yield:",
+  "@avgYield": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "perDay": "Per Day",
+  "@perDay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pregnanacy": "Pregnancy",
+  "@pregnanacy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDateTap": "Select date by tapping here",
+  "@selectDateTap": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editUser": "Edit User",
+  "@editUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name:",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterText": "Please enter some text",
+  "@pleaseEnterText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterLocation": "Enter location:",
+  "@enterLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "locationOPT": "Location(optional):",
+  "@locationOPT": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterAadhar": "Enter your Aadhaar",
+  "@enterAadhar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aadharOPT": "Aadhaar (optional):",
+  "@aadharOPT": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcome": "Welcome!",
+  "@welcome": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "location": "Location:",
+  "@location": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aadhar": "AADHAR:",
+  "@aadhar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "news": "News",
+  "@news": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumCantEmpty": "Your phone number can't be empty!",
+  "@phoneNumCantEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumInvalid": "This phone number is invalid!",
+  "@phoneNumInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "couldntVerifyCode": "We couldn't verify your code for now, please try again!",
+  "@couldntVerifyCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verificationCodeEmpty": "Your verification code can't be empty!",
+  "@verificationCodeEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidVerificationCode": "This verification code is invalid!",
+  "@invalidVerificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "couldntVerifyCodeRetry": "We couldn't verify your code, please try again!",
+  "@couldntVerifyCodeRetry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "couldntCreatProfile": "We couldn't create your profile for now, please try again later",
+  "@couldntCreatProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cantRetryYet": "You can't retry yet!",
+  "@cantRetryYet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "codeNotThereInOneMin": "If your code does not arrive in 1 minute, touch",
+  "@codeNotThereInOneMin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verificationCode": "Verification code",
+  "@verificationCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authentication": "Authentication",
+  "@authentication": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterNumberBelow": "Please enter your number below.\n",
+  "@enterNumberBelow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "willSendSMS": "We'll send an SMS message to verify your identity.",
+  "@willSendSMS": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Search",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dryAnimals": "Dry Animals",
+  "@dryAnimals": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "milkingAnimals": "Milking Animals",
+  "@milkingAnimals": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pregnantAnimals": "Pregnant Animals",
+  "@pregnantAnimals": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "banni": "Banni",
+  "@banni": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidDate": "Not a valid date.",
+  "@invalidDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cattleName": "Enter cattle's name",
+  "@cattleName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterDescription": "Enter the Description",
+  "@enterDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterInsuranceNum": "Enter insurance number",
+  "@enterInsuranceNum": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "insurance": "Insurance:",
+  "@insurance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kankrej": "Kankrej",
+  "@kankrej": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hallikar": "Hallikar",
+  "@hallikar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kangayan": "Kangayan",
+  "@kangayan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hariana": "Hariana",
+  "@hariana": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "marnadu": "Marnadu",
+  "@marnadu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tharparkar": "Tharparkar",
+  "@tharparkar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Vechur": "Vechur",
+  "@Vechur": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "RedSindhi": "Red Sindhi",
+  "@RedSindhi": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "NiliRavi": "Nili Ravi",
+  "@NiliRavi": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Jaffarabadi": "Jaffarabadi",
+  "@Jaffarabadi": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Naatu": "Naatu",
+  "@Naatu": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "Surti": "Surti",
+  "@Surti": {
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "enterName": "Please input your name",
+    "@enterName": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "accept": "Accept",
+    "@accept": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "here": "   here.",
+    "@here": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "referral": "Referral: ",
+    "@referral": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterAgentCode": "Please enter the agent code",
+    "@enterAgentCode": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "and": " and ",
+    "@and": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "likeDecoration": " others like this",
+    "@likeDecoration": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "editStr": "Edit",
+    "@editStr": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "language": "Language",
+    "@language": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "addPost": "Add Post",
+    "@addPost": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "pregnancyCheckPass": "PregnancyCheckPass",
+    "@pregnancyCheckPass": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "pregnancyCheckFail": "PregnancyCheckFail",
+    "@pregnancyCheckFail": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "delivered": "Delivered",
+    "@delivered": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "medication": "Medication",
+    "@medication": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterPurchaseDate": "Enter purchase date (dd/mm/yyyy)",
+    "@enterPurchaseDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "enterBirthDate": "Enter date of birth (dd/mm/yyyy)",
+    "@enterBirthDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "addAnimal": "Add Animal",
+    "@addAnimal": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "archived": "Archived",
+    "@archived": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "delete": "Delete",
+    "@delete": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "lastDate": "Last Yield Entry Date: ",
+    "@lastDate": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "yieldNotNormal": "The yield is outside the normal range. Are you sure?",
+    "@yieldNotNormal": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "postDeleted": "Post deleted, Please refresh",
+    "@postDeleted": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "availableSoon": "Will be available soon",
+    "@availableSoon": {
+      "type": "text",
+      "placeholders": {}
+    },
+   "undo": "Undo",
+   "@undo": {
+     "type": "text",
+     "placeholders": {}
+   },
+   "restored": "Restored",
+   "@restored": {
+     "type": "text",
+     "placeholders": {}
+   }
+}

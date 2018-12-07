@@ -1,0 +1,91 @@
+name: kissaan_flutter
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 1.0.0+3
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  flutter_webview_plugin: 0.3.0+2
+  flutter_localizations:
+    sdk: flutter
+  firebase_auth: ^0.6.5
+  firebase_storage:
+  cloud_firestore: ^0.8.0
+  intl_translation: 0.17.0
+  image: ^2.0.4
+  flutter_date_picker: ^0.1.2
+  multi_image_picker: ^2.2.53
+  flutter_masked_text: ^0.7.0
+  flutter_native_image:
+    git: https://github.com/btastic/flutter_native_image.git
+  image_picker:
+  carousel_pro: ^0.0.13
+  image_cropper: ^0.0.8
+  charts_flutter: ^0.4.0
+  flutter_launcher_icons: ^0.6.1
+  shared_preferences: ^0.4.3
+  flutter_linkify: ^1.0.3
+  url_launcher: ^4.0.1
+  device_info: ^0.3.0
+  path_provider: ^0.4.1
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/launch.png"
+
+#dependency_overrides:
+#    analyzer: ^0.33.0-alpha.0
+#    kernel: 0.3.6
+#    front_end: 0.1.5
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/icons/all_cattle.png
+    - assets/icons/add_cattle.png
+    - assets/icons/archived.png
+    - assets/icons/edit_button.png
+    - assets/icons/cattle.png
+    - assets/icons/buffalo.jpg
+    - assets/icons/Delivery.png
+    - assets/icons/Dry Cow Therapy.png
+    - assets/icons/General Check-up.png
+    - assets/icons/insemination.png
+    - assets/icons/Intramammary Antibiotics.png
+    - assets/icons/pregnancy.png
+    - assets/icons/add.png
+    - assets/icons/selected.png
+    - assets/icons/Dead.png
+    - assets/icons/Dead Calf.png
+    - assets/icons/Female Calf.png
+    - assets/icons/Male Calf.png
+    - assets/icons/Sold.png
+    - assets/icons/tip_icon.png
+    - assets/icons/night.png
+    - assets/icons/day.png
+    - assets/icons/launch.png
+    - assets/icons/like.png
+    - assets/icons/post.png
+  fonts:
+    - family:  Kissaan
+      fonts:
+        - asset: fonts/Kissaan.ttf
