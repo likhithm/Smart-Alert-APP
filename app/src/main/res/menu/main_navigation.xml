@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:title="@string/sign_out_exit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/map"
+        android:layout_height="match_parent"
+        android:icon="@drawable/map"
+        android:title=""
+        app:showAsAction="ifRoom" />
+</menu>

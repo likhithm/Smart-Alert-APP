@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:id="@+id/parent_layout">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/image"
+        android:src="@drawable/app_icon"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wind Alert: Strong Wind near Downtown San Jose!!"
+        android:id="@+id/image_name"
+        android:layout_toRightOf="@+id/image"
+        android:textColor="#ff00"
+
+        android:layout_marginLeft="30dp"
+        android:textSize="17sp"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/image2"
+        android:layout_below="@+id/image"
+        android:src="@drawable/app_icon"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fire Alert: Forest Fire spreading from Paradise, be safe!!"
+        android:id="@+id/image_name2"
+        android:layout_below="@+id/image"
+        android:layout_toRightOf="@+id/image2"
+        android:textColor="#ff00"
+        android:layout_marginLeft="30dp"
+        android:textSize="17sp"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/image3"
+        android:layout_below="@+id/image2"
+        android:src="@drawable/app_icon"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Earthquake: MLK Building is shaking in San Jose, stay alert!! "
+        android:id="@+id/image_name3"
+        android:layout_below="@+id/image2"
+        android:layout_toRightOf="@+id/image3"
+        android:textColor="#ff00"
+        android:layout_marginLeft="30dp"
+        android:textSize="17sp"/>
+
+
+</RelativeLayout>
+

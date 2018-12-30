@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.life.smartalert.SmartAlertActivities.MainActivity">
+
+
+    <item
+        android:id="@+id/settings"
+        android:fontFamily="serif"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/notification"
+        android:layout_height="match_parent"
+        android:icon="@drawable/guide"
+        android:title=""
+        app:showAsAction="ifRoom" />
+
+</menu>

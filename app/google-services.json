@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1095261619796",
+    "firebase_url": "https://smart-alert-3f621.firebaseio.com",
+    "project_id": "smart-alert-3f621",
+    "storage_bucket": "smart-alert-3f621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095261619796:android:7db28c043f60302d",
+        "android_client_info": {
+          "package_name": "com.life.smartalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095261619796-oq1vi9ha2th122p8frhqf50bbkkvukq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrA8j6XCc-wuLndWPj0jSsp1HrZL7eOjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

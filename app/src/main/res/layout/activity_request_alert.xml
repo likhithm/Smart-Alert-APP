@@ -1,0 +1,208 @@
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="25dp"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    tools:context="com.life.smartalert.SmartAlertActivities.RequestAlertActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/question"
+            android:text="Select the type of the incident you want to report:"
+            />
+
+
+        <CheckBox android:id="@+id/radio_incidentType_trapped"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake"
+            style="@style/radioButton"
+            />
+
+        <CheckBox android:id="@+id/radio_incidentType_medical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Accident"
+            style="@style/radioButton"
+            />
+
+        <CheckBox android:id="@+id/radio_incidentType_fire"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fire"
+            style="@style/radioButton"
+            />
+
+
+        <CheckBox android:id="@+id/radio_incidentType_utility"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wind"
+            style="@style/radioButton"
+            />
+
+        <CheckBox android:id="@+id/radio_incidentType_other"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Other"
+            style="@style/radioButton"
+            />
+        <!--/RadioGroup-->
+
+        <EditText
+            android:id="@+id/description"
+            android:layout_width="match_parent" android:inputType="" 
+            android:layout_height="wrap_content"
+            android:hint="Write Description Here"
+            />
+
+
+        <EditText
+            android:id="@+id/city"
+            android:layout_width="match_parent" android:inputType="" 
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:hint="Enter City"
+            />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/report_alert"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:fontFamily="serif"
+            android:text="Submit"
+            android:textColor="#ffff"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+</FrameLayout>
+
+    <!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:background="#eeeeee"
+        tools:context="com.life.smartalert.SmartAlertActivities.RequestAlertActivity"
+        >
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView"
+            android:fillViewport="true"
+            android:fadeScrollbars="false"
+            android:paddingBottom="60dp"
+            android:scrollbars="vertical" >
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="20dp"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:layout_marginTop="10dp"
+                    android:layout_width="wrap_content"
+                    android:text="TITTLE:"
+                    android:textSize="20dp"
+
+                    android:fontFamily="serif"
+                    android:id="@+id/name"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorPrimary" />
+
+                <EditText
+                    android:id="@+id/alert_name"
+                    android:textSize="20dp"
+                    android:fontFamily="serif"
+                    android:hint="Name"
+                    android:layout_below="@+id/name"
+                    android:textCursorDrawable="@null"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="LOCATION"
+                    android:fontFamily="serif"
+                    android:textSize="20dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/alert_name"
+                    android:id="@+id/loc"
+                    android:textColor="@color/colorPrimary"
+                    android:layout_marginTop="15dp"
+                    />
+
+
+                <EditText
+                    android:id="@+id/location"
+                    android:textSize="20dp"
+                    android:fontFamily="serif"
+                    android:hint="Street,City"
+                    android:layout_width="400dp"
+                    android:layout_below="@+id/loc"
+                    android:layout_height="wrap_content"
+                    android:inputType="text"
+                    android:maxLength="10"
+                    android:textCursorDrawable="@null"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="DESCRIPTION"
+                    android:textSize="20dp"
+                    android:fontFamily="serif"
+                    android:id="@+id/desc"
+                    android:layout_below="@+id/location"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorPrimary"
+                    android:layout_marginTop="5dp"/>
+
+                <EditText
+                    android:id="@+id/description"
+                    android:textSize="20dp"
+                    android:hint="Short Description"
+                    android:fontFamily="serif"
+                    android:inputType="textMultiLine"
+                    android:layout_below="@+id/desc"
+                    android:textCursorDrawable="@null"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/button3"
+                    style="@style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Large"
+                    android:layout_width="157dp"
+                    android:layout_height="50dp"
+                    android:layout_below="@+id/description"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="37dp"
+                    android:background="#fff"
+                    android:text="Send Alert"
+                    android:textColor="#dc143c"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+        </ScrollView>
+
+    </LinearLayout>-->
