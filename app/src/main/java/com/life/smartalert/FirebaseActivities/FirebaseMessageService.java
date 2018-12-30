@@ -38,7 +38,7 @@ public class FirebaseMessageService extends FirebaseMessagingService {
 
     String HttpURL = "http://104.196.187.102:10101/register";// remember to change this ip whenever you restart your server
     HttpParse httpParse = new HttpParse();
-    String finalResult ;
+    String finalResult ;  // result
     Date date = new Date();
     String date_time_string;
 
